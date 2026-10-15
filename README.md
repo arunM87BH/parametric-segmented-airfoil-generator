@@ -157,7 +157,3 @@ Set `EXPORT_SMOOTH = False` to use the older Douglas-Peucker point reduction (`E
 - **V10**: removed micro-edges for ANSYS mm import; smooth arc-length export resampling.
 - **V9**: ANSYS mm import fixes.
 - **V8**: exact surface evaluation; surface pieces keep their vertices.
-
-## License
-
-Add your license here (e.g. MIT).
